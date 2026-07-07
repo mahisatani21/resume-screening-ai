@@ -23,8 +23,6 @@ An AI-powered **Multi-Agent Resume Optimization System** developed using **LangG
 ```
 resume-agent/
 │
-├── __pycache__/
-├── .vscode/
 ├── agents/
 │   ├── __init__.py
 │   ├── jd_parser.py
@@ -35,8 +33,6 @@ resume-agent/
 ├── graph/
 │   ├── __init__.py
 │   └── pipeline.py
-│
-├── resume/
 │
 ├── utils/
 │   ├── __init__.py
